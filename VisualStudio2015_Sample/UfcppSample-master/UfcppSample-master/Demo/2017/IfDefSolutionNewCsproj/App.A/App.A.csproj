@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net47;netcoreapp2.0</TargetFrameworks>
+    <RootNamespace>App</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib.A\Lib.A.csproj" />
+    <ProjectReference Include="..\LibDependentOnA\LibDependentOnA.csproj" />
+  </ItemGroup>
+
+</Project>

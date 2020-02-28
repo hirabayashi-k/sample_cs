@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F88628E-5E67-43BC-9524-00394127B6C7}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ValueTuples</RootNamespace>
+    <AssemblyName>ValueTuple</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Serialization\MiniMessagePack.cs" />
+    <Compile Include="Serialization\MyBinarySerializer.cs" />
+    <Compile Include="Serialization\Number1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Number.tt</DependentUpon>
+    </Compile>
+    <Compile Include="旧\IDeepCloneable.cs" />
+    <Compile Include="旧\IRecord.cs" />
+    <Compile Include="Reflection\ArrayTypeInfo.cs" />
+    <Compile Include="Reflection\IRecordAccessor.cs" />
+    <Compile Include="Reflection\RecordFieldInfo.cs" />
+    <Compile Include="Reflection\RecordTypeInfo.cs" />
+    <Compile Include="Reflection\Primitives.cs" />
+    <Compile Include="Reflection\TypeRepository.cs" />
+    <Compile Include="Sample\Thief.cs" />
+    <Compile Include="Sample\Mage.cs" />
+    <Compile Include="Sample\Pair.cs" />
+    <Compile Include="Sample\Point.cs" />
+    <Compile Include="Sample\PolyLine.cs" />
+    <Compile Include="Sample\Fighter.cs" />
+    <Compile Include="Sample\Unit.cs" />
+    <Compile Include="Serialization\IDeserializer.cs" />
+    <Compile Include="Serialization\ISerializer.cs" />
+    <Compile Include="Serialization\ISerializerFactory.cs" />
+    <Compile Include="Serialization\MySerializer.cs" />
+    <Compile Include="旧\Serialization旧\IDeserializer.cs" />
+    <Compile Include="旧\Serialization旧\ISerializer.cs" />
+    <Compile Include="旧\ITuple.cs" />
+    <Compile Include="旧\Person.cs" />
+    <Compile Include="旧\Line.cs" />
+    <Compile Include="旧\Point.cs" />
+    <Compile Include="旧\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="旧\Serialization旧\MySerializer.cs" />
+    <Compile Include="旧\Student.cs" />
+    <Compile Include="旧\ValueTuple.cs" />
+    <Compile Include="旧\ValueTuples.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ValueTuples.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Serialization\Number.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Number1.cs</LastGenOutput>
+    </Content>
+    <Content Include="旧\ValueTuples.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>ValueTuples.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

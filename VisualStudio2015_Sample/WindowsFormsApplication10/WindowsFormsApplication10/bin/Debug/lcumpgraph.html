@@ -1,0 +1,335 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+  <meta name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 6.5.0.0 for Windows">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>LCU-MPGRAPH MANUAL</title></head>
+<body style="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);" alink="#ff0000" link="#0000ff" vlink="#800080">
+<div align="right"><tt>OLYMPUS OPTICAL CO.,LTD.</tt></div>
+<b><font size="+2">LCU-MPGRAPH 取扱説明書</font></b>
+<hr>
+<p><b>【目次】</b>
+</p>
+<blockquote>用途 <br>
+メイン画面 <br>
+  <br>
+</blockquote>
+<hr>
+<p><b>【用途】</b>
+</p>
+<blockquote>LCU-MPGRAPH は LCU-MP 測定データを元に、各レンズの傾心を算出表示するプログラムです。 <br>
+BASE と SURFACE の指定により、任意の基準（機械軸基準、最適軸基準、レンズ基準、群基準）の <br>
+任意の面（１面、１レンズ、接合レンズ、群）の傾心計算に対応できます。 <br>
+  <br>
+</blockquote>
+<hr>
+<p><b>【メイン画面】</b>
+</p>
+<blockquote><img alt="mpgraph" src="mpgraph.png">&nbsp; <br>
+  <table border="1">
+    <caption><br>
+    </caption> <tbody>
+      <tr>
+        <td>DATE</td>
+        <td>測定日付</td>
+      </tr>
+      <tr>
+        <td>PRODUCT</td>
+        <td>製品名</td>
+      </tr>
+      <tr>
+        <td>UNIT</td>
+        <td>部品名</td>
+      </tr>
+      <tr>
+        <td>COMMENT</td>
+        <td>コメント</td>
+      </tr>
+      <tr>
+        <td>LENS</td>
+        <td>レンズ名</td>
+      </tr>
+      <tr>
+        <td>BASE</td>
+        <td>基準面<br>
+複数面指定の場合はカンマ区切りで並べます。（１，２，３・・・）<br>
+””入力無しの場合、機械軸基準（回転軸基準）となります。<br>
+”０”と指定すると機械軸基準でワークアライメント値を反映します。<br>
+”９９９”と入力するとワーク全面指定(全面最適軸基準）となります。<br>
+        </td>
+      </tr>
+      <tr>
+        <td>SURFACE</td>
+        <td>評価面<br>
+複数面指定の場合はカンマ区切りで並べます。（１，２，３・・・）<br>
+        </td>
+      </tr>
+      <tr>
+        <td>EPSILON STD CENTER</td>
+        <td>EPSILON 規格値、規格中心</td>
+      </tr>
+      <tr>
+        <td>DELTA STD CENTER</td>
+        <td>DELTA 規格値、規格中心</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">WORK ALINGMENT TILT SHIFT<br>
+        </td>
+        <td style="vertical-align: top;">各測定時のワークアライメント値　チルトＸ，Ｙ　シフトＸ，Ｙ<br>
+        </td>
+      </tr>
+      <tr>
+        <td>SET</td>
+        <td>LENS,BASE,SURFACE,EPSILON,DELTA 設定を入力します</td>
+      </tr>
+      <tr>
+        <td>基準面 ADD,DELETE,＜＜,＞＞</td>
+        <td>基準面の追加、削除移動を行ないます</td>
+      </tr>
+      <tr>
+        <td>Copy/Paste</td>
+        <td>基準面の設定を Copy/Paste します</td>
+      </tr>
+      <tr>
+        <td>SETTING LOAD/SAVE</td>
+        <td>表示設定の LOAD/SAVE</td>
+      </tr>
+      <tr>
+        <td>HELP</td>
+        <td>ヘルプを起動します</td>
+      </tr>
+      <tr>
+        <td>評価面 ADD,DELETE,＜＜,＞＞</td>
+        <td>評価面の追加、削除移動を行ないます</td>
+      </tr>
+      <tr>
+        <td>SELECT ONLY</td>
+        <td>選択したレンズのみ結果表示します</td>
+      </tr>
+      <tr>
+        <td>STD</td>
+        <td>規格を参照入力します。BASE が規格と同じに書き換えられます<br>
+（測定プログラム本体から起動時のみ）<br>
+        </td>
+      </tr>
+      <tr>
+        <td>CAL　REVERSE</td>
+        <td>偏心量算出方向を変更し、計算・表示します。<br>
+（データファイルﾊﾞｰｼﾞｮﾝ１．００以降対応）<br>
+通常：ワーク設置基準LCT-R系　リバース：光源入射方向基準</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">COPY&nbsp; DATE<br>
+        </td>
+        <td style="vertical-align: top;">測定値行を選択し、COPY &amp; PAST
+する際、測定年月日項目も<br>
+コピーします。<br>
+        </td>
+      </tr>
+      <tr>
+        <td>AVERAGE</td>
+        <td>平均値と現在値のみ表示します</td>
+      </tr>
+      <tr>
+        <td>ARROW</td>
+        <td>現在値の矢印表示をします</td>
+      </tr>
+      <tr>
+        <td>LOAD</td>
+        <td>LCU-MP測定データファイルを読み込みます</td>
+      </tr>
+      <tr>
+        <td>APEND</td>
+        <td>LCU-MP　測定データファイルを現在のデータに追加します<br>
+        RDNデータが同じデータファイルしか追加出来ません</td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">ＳＡＶＥ<br>
+        </td>
+        <td style="vertical-align: top;">測定結果をファイルへ保存します。<br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">ＣＬＥＡＲ<br>
+        </td>
+        <td style="vertical-align: top;">測定結果をクリアします。<br>
+        </td>
+      </tr>
+      <tr><td>SET</td><td>面偏心時は偏心算出条件設定、F式時は設定、規格設定を行います。<br>ここで編集、保存した設定は保存したデータファイルのみ有効です。</td></tr><tr>
+        <td>PRINT</td>
+        <td>画面のハードコピーをとります</td>
+      </tr>
+      <tr>
+        <td>CONFIG</td>
+        <td>印刷設定をします</td>
+      </tr>
+      <tr>
+        <td>CLOSE</td>
+        <td>LCU-MPGRAPH を終了します</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>注意）　本体ワークパラメータにて算出条件／規格を変更した場合、変更内容は自動で反映されません。<br>
+　　　　　一旦、表示面を削除した後、再度追加して下さい。<br>
+  <br>
+  </p>
+  <p><span style="font-weight: bold;">＜測定時ID　編集＞</span><a name="表示切り替え"></a><br>
+  </p>
+  <p>測定時に入力されているID（各測定毎のコメント）を編集出来ます。<br>
+編集したい測定行をクリックして選択した後、ENTERキーを押します。<br>
+ID編集画面が開きます。<br>
+SAVEボタンを押してファイルを保存すると編集したIDも変更され保存されます。<br>
+  <br>
+  </p>
+  <p> <span style="font-weight: bold;">＜表示切替＞</span><a name="表示切り替え"></a><br>
+  </p>
+  <table style="text-align: left;" border="1" cellpadding="2" cellspacing="2">
+    <tbody>
+      <tr>
+        <td colspan="1" rowspan="2" style="vertical-align: top;">タブ<br>
+        </td>
+        <td style="vertical-align: top;">EACH<br>
+        </td>
+        <td style="vertical-align: top;">規格毎に詳細結果を表示します。<br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">ALL<br>
+        </td>
+        <td style="vertical-align: top;">各規格についてｅ，ｄのみをまとめて表示します。<br>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="1" rowspan="3" style="vertical-align: top;">項目<br>
+        </td>
+        <td style="vertical-align: top;">ＬＥＮＳ<br>
+        </td>
+        <td style="vertical-align: top;">規格名を表示します。<br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">ＢＡＳＥ<br>
+        </td>
+        <td style="vertical-align: top;">基準面を表示します。<br>
+        </td>
+      </tr>
+      <tr>
+        <td style="vertical-align: top;">ＳＵＲＦＡＣＥ<br>
+        </td>
+        <td style="vertical-align: top;">偏心算出面を表示します。
+1面のみの場合、面の曲率半径も表示します。<br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p><img alt="mpgraphall" src="mpgraphall.png"><br>
+  </p>
+  <p> </p>
+  
+  <hr>
+  <p><b>【評価関数表示に際しての注意事項】</b> </p>
+  <p>①評価関数名を必ず指定して下さい。その際　”Fxxx”と先頭に”F”を必ずつけるようにして下さい。</p><p>②評価関数として以下の形式のベクトル和絶対値（R）・Ｘ成分（ＦＸ）・Ｙ成分（ＦＹ）について算出/規格判定を行います <br>
+　　　ベクトル和絶対値（R）＝√(FX*FX　＋　FY*FY)</p>
+  <p>③評価関数表示の挿入、編集は、LCU-MPプログラム本体から起動した時のみ行えます。 </p>
+  <p>④ワークパラメータ画面にて定義した各レンズ評価面を全て同じ順番で左から表示させる必要があります。<br>
+　関数定義中で使用する　各レンズの偏心量番号は、評価面の左から順番に割り振っていきます。 <br>
+　　→　(評価規格1）(評価規格２）(評価関数1）(評価関数２）(評価関数３） <br>
+　　例）&nbsp; 　<br>
+　　　　　　評価規格１偏心量　　ex1,　ey1,　dx1,　dy1 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;　
+評価規格２偏心量　　ex2,　ey2,　dx2,　dy2 <br>
+　 <br>
+⑤ＦＸ、ＦＹの定義式は、全体が表示されていません。マウスを定義式表示部へ動かすと各成分定義式
+が表示されます。　定義式文字部でダブルクリックすると、定義式全体（ＦＸ，ＦＹ）が表示されます。 </p>
+  <p>⑥ＳＥＴボタンを押すと、定義式、規格編集画面になります。ここで編集した定義式内容は、ワークパラメータには
+反映されません。 <br>
+　LCU-MPプログラム本体から起動の際、上記変更後、測定を行うと初期定義に戻ります。 <br>
+　ｌｃｕｍｐｇｒａｐｈとして起動している際、定義式変更後、ＳＡＶＥ（データ保存）すると、変更された定義内容がファイルへ <br>
+　保存されます。<br>
+  </p>
+  <p>⑦本体ワークパラメータにて計算式、規格を変更した場合、変更内容は自動で反映されません。<br>
+　　一旦、関数表示面を削除した後、再度追加して下さい。<br>
+  </p>
+  <p>⑧ＦＸ，ＦＹ定義式には①偏心量と以下の組み込み関数・演算記号を使用して記述出来ます。 </p>
+  <p>&nbsp;[使用可能関数]
+  
+<table border="1" cols="4" width="597">
+    <tbody>
+      <tr>
+        <td>&nbsp;SUM(...)&nbsp;</td>
+        <td>合計 SUM(1,2,3), SUM(1)</td>
+        <td>ATAN2(値, 値)&nbsp;</td>
+        <td>atan2(y, x)</td>
+      </tr>
+      <tr>
+        <td>AVERAGE(...)&nbsp;</td>
+        <td>&nbsp;平均</td>
+        <td>EXP(値)&nbsp;</td>
+        <td>べき乗</td>
+      </tr>
+      <tr>
+        <td>STDEV(...)&nbsp;</td>
+        <td>標準偏差</td>
+        <td>MAX(...)</td>
+        <td>最大値</td>
+      </tr>
+      <tr>
+        <td>ABS(値)&nbsp;</td>
+        <td>絶対値</td>
+        <td>&nbsp;MIN(...)&nbsp;</td>
+        <td>最小値</td>
+      </tr>
+      <tr>
+        <td>SIN(値)&nbsp;</td>
+        <td>sin</td>
+        <td>SQRT(値)&nbsp;</td>
+        <td>平方根</td>
+      </tr>
+      <tr>
+        <td>COS(値)&nbsp;</td>
+        <td>cos</td>
+        <td>LOG(値)&nbsp;</td>
+        <td>自然対数</td>
+      </tr>
+      <tr>
+        <td>TAN(値)&nbsp;</td>
+        <td>&nbsp;tan</td>
+        <td>LOG10(値)</td>
+        <td>10を底とする対数</td>
+      </tr>
+      <tr>
+        <td>ASIN(値)&nbsp;</td>
+        <td>arcsin</td>
+        <td>&nbsp;SINH(値)</td>
+        <td>sinh</td>
+      </tr>
+      <tr>
+        <td>ACOS(値)&nbsp;</td>
+        <td>arccos</td>
+        <td>&nbsp;COSH(値)</td>
+        <td>cosh</td>
+      </tr>
+      <tr>
+        <td>ATAN(値)&nbsp;</td>
+        <td>&nbsp;arctan</td>
+        <td>&nbsp;TANH(値)</td>
+        <td>tanh</td>
+      </tr>
+    </tbody>
+  </table>
+</p><p>&nbsp;[演算子] <br>
+　　＋、－、＊、／　　　　　　単項 ＋、－　　　　　　（　） <br>
+&nbsp; <br>
+・変数、定数、関数とも大文字小文字は区別しません </p>
+  
+  <p>⑨F式選別規格</p><p>FX,FYに対するベクトル和絶対値Rの規格（R1,R2　※　R1&lt;R2）が設定され、</p><p>計算されたRが　R1&lt;R&lt;R2の場合、計算されたFX,FYのベクトル角度（FTHETA)に対して選別規格を設定できます。</p><p>この場合　R&lt;R1　では　RANK=0、　R1&lt;R&lt;R2の場合設定した条件で選別（RANK=1～７）、</p><p>R&gt;R2では×となります。</p><table style="text-align: left; width: 633px; height: 111px;" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td>RANK_THETA</td><td>選別FTHETA規格</td><td>FT=Tan
+-1(FX/FY)での選別規格を入力します。7個まで入力可能です。選別名”1,2,3,4,5,6,7”に対応するＦθの規格をカンマ区切りで入力し
+ます。<br>例　”９０，１８０，２７０，３６０，０，０，０”　⇒　１：　0&lt;ＦＴ&lt;=90、２：90&lt;ＦＴ&lt;=180、3:　
+180&lt;FT&lt;=270</td></tr></tbody></table>
+  
+</blockquote><pre style="margin-left: 40px;"><a href="lcumpsim.html#mokuji"><span style="text-decoration: underline;"></span></a>⑩F式規格画面の追加<br>　ｌｃｕｍｐｇｒａｐｈとして起動している際、”Ctr"キーを押しながら”ADD"ボタンをクリックすると<br>　F式規格画面雛形が追加されます。X,Y式欄に必ず文字を入力するようにして下さい。 <br></pre><blockquote><hr></blockquote>
+<div align="right">①2008/04/08　VER1.00
+<div align="right">②2008/05/23　VER1.03<br><div style="text-align: right;">&nbsp;③2010/10/28　VER1.07 
+<br>
+</div></div>
+</div></body></html>

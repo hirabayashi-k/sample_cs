@@ -1,0 +1,9 @@
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Form1.resources
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.exe
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.pdb
+c:\users\takt\documents\visual studio 2015\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.UserControl1.resources

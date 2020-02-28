@@ -1,0 +1,10 @@
+E:\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.exe.config
+E:\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.exe
+E:\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.pdb
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csprojAssemblyReference.cache
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.InputDialog.resources
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.Properties.Resources.resources
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.GenerateResource.cache
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.exe
+E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.pdb
