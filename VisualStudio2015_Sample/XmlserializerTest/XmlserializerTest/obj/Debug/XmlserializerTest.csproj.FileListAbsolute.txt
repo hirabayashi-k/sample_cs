@@ -1,0 +1,13 @@
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\bin\Debug\XmlserializerTest.exe.config
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\bin\Debug\XmlserializerTest.exe
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\bin\Debug\XmlserializerTest.pdb
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.Form1.resources
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.Properties.Resources.resources
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.csproj.GenerateResource.Cache
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.exe
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.pdb
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.csprojAssemblyReference.cache
+E:\97_VS2015テストプロジェクト\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2015_Sample\XmlserializerTest\XmlserializerTest\bin\Debug\XmlserializerTest.exe.config
+E:\sample_cs\VisualStudio2015_Sample\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.exe
+E:\sample_cs\VisualStudio2015_Sample\XmlserializerTest\XmlserializerTest\obj\Debug\XmlserializerTest.pdb

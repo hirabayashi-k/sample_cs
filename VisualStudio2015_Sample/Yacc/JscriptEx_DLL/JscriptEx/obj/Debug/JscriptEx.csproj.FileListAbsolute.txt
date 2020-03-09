@@ -1,0 +1,5 @@
+E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\bin\Debug\JscriptEx.dll
+E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\bin\Debug\JscriptEx.pdb
+E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\obj\Debug\JscriptEx.csprojResolveAssemblyReference.cache
+E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\obj\Debug\JscriptEx.dll
+E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\obj\Debug\JscriptEx.pdb

@@ -1,0 +1,10 @@
+C:\Users\10004162\source\repos\ExpTest\ExpTest\bin\x86\Debug\ExpTest.exe.config
+C:\Users\10004162\source\repos\ExpTest\ExpTest\bin\x86\Debug\ExpTest.exe
+C:\Users\10004162\source\repos\ExpTest\ExpTest\bin\x86\Debug\ExpTest.pdb
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.mainForm.resources
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.Properties.Resources.resources
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.csproj.GenerateResource.Cache
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.csproj.CoreCompileInputs.cache
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.exe
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.pdb
+C:\Users\10004162\source\repos\ExpTest\ExpTest\obj\x86\Debug\ExpTest.csprojResolveAssemblyReference.cache

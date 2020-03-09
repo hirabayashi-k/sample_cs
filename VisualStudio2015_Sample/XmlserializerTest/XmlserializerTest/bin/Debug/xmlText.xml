@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmlClass1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <data1>data1</data1>
+  <data2>data2</data2>
+  <data3>data3</data3>
+  <data4>data4</data4>
+  <index>1</index>
+  <hairetu>
+    <int>1</int>
+    <int>2</int>
+    <int>3</int>
+  </hairetu>
+  <hairetu2>
+    <ArrayOfInt>
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+    </ArrayOfInt>
+    <ArrayOfInt>
+      <int>0</int>
+      <int>1</int>
+      <int>2</int>
+    </ArrayOfInt>
+  </hairetu2>
+</XmlClass1>

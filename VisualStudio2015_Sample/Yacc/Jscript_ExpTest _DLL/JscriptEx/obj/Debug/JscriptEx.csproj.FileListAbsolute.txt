@@ -1,0 +1,4 @@
+E:\VisualStudio2015_Sample\Yacc\ExpTest _DLL\JscriptEx\bin\Debug\JscriptEx.dll
+E:\VisualStudio2015_Sample\Yacc\ExpTest _DLL\JscriptEx\bin\Debug\JscriptEx.pdb
+E:\VisualStudio2015_Sample\Yacc\ExpTest _DLL\JscriptEx\obj\Debug\JscriptEx.dll
+E:\VisualStudio2015_Sample\Yacc\ExpTest _DLL\JscriptEx\obj\Debug\JscriptEx.pdb
