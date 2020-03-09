@@ -1,8 +1,0 @@
-table.matrix
-{
-	display:inline;
-	font-style:italic;
-	text-align:center;
-	vertical-align:bottom;
-	vertical-align:middle;
-}

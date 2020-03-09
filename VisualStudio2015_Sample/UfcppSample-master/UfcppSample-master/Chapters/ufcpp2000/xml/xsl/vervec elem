@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:vervec/ufcpp:elem">
-	<tr><td><xsl:apply-templates/></td></tr>
-</xsl:template>

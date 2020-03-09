@@ -1,8 +1,0 @@
-E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\bin\Release\JscriptEx.dll
-E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\bin\Release\JscriptEx.pdb
-E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\obj\Release\JscriptEx.dll
-E:\VisualStudio2015_Sample\WindowsFormsApplication4\JscriptEx\JscriptEx\obj\Release\JscriptEx.pdb
-E:\VisualStudio2015_Sample\Yacc\JscriptEx\JscriptEx\bin\Release\JscriptEx.dll
-E:\VisualStudio2015_Sample\Yacc\JscriptEx\JscriptEx\bin\Release\JscriptEx.pdb
-E:\VisualStudio2015_Sample\Yacc\JscriptEx\JscriptEx\obj\Release\JscriptEx.dll
-E:\VisualStudio2015_Sample\Yacc\JscriptEx\JscriptEx\obj\Release\JscriptEx.pdb

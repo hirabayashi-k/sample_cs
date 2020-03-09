@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:e">
-	<span class="normal">e</span>
-</xsl:template>

@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:branch/ufcpp:case/ufcpp:equ">
-	<xsl:apply-templates/>
-</xsl:template>

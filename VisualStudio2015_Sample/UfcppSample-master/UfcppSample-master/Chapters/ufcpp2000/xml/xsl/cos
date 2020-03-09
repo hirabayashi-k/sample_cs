@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:cos">
-	<span class="normal">cos</span>
-</xsl:template>

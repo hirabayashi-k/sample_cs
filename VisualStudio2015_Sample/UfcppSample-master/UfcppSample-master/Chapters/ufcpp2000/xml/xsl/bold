@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:bold">
-	<span class="bold"><xsl:apply-templates/></span>
-</xsl:template>

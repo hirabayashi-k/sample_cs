@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:subsup/ufcpp:sub|ufcpp:subsup/ufcpp:sup">
-	<xsl:apply-templates/>
-</xsl:template>

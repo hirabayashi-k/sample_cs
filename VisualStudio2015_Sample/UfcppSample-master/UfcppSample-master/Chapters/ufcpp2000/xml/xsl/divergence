@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:divergence">
-	<span class="vector">∇</span>・
-</xsl:template>

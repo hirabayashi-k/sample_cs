@@ -1,1 +1,0 @@
-E:\VisualStudio2015_Sample\BitmapTest\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config

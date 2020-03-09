@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:textgrad">
-	<span class="normal">grad</span>
-</xsl:template>

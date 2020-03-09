@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:textdiv">
-	<span class="normal">div</span>
-</xsl:template>

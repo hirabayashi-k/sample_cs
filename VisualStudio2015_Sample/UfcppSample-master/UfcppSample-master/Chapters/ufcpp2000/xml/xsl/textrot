@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:textrot">
-	<span class="normal">rot</span>
-</xsl:template>

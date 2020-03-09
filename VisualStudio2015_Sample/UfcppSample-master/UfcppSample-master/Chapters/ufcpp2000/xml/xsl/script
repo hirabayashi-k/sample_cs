@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:cursive">
-	<span class="cursive"><xsl:apply-templates/></span>
-</xsl:template>

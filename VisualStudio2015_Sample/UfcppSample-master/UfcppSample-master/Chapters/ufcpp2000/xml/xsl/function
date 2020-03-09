@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:func">
-	<span class="normal"><xsl:value-of select="@name"/></span>
-</xsl:template>

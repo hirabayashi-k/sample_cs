@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:frac/ufcpp:num">
-	<xsl:apply-templates/>
-</xsl:template>

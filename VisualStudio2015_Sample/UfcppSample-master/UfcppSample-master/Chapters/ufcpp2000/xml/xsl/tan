@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:tan">
-	<span class="normal">tan</span>
-</xsl:template>

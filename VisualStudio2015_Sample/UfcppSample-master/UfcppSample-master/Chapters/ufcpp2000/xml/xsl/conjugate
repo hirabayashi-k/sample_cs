@@ -1,3 +1,0 @@
-<xsl:template match="ufcpp:conjugate">
-	<xsl:apply-templates/><sup>*</sup>
-</xsl:template>
