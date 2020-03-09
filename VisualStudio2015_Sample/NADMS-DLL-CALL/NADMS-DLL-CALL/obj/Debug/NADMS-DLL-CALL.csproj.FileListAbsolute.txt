@@ -1,0 +1,13 @@
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\bin\Debug\NADMS-DLL-CALL.exe.config
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\bin\Debug\NADMS-DLL-CALL.exe
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\bin\Debug\NADMS-DLL-CALL.pdb
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\bin\Debug\LocalDB_lan_Cs.dll
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.csprojResolveAssemblyReference.cache
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS_DLL_CALL.Form1.resources
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS_DLL_CALL.Properties.Resources.resources
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.csproj.GenerateResource.Cache
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.exe
+E:\tmp\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.pdb
+E:\sample_cs\VisualStudio2015_Sample\NADMS-DLL-CALL\NADMS-DLL-CALL\bin\Debug\NADMS-DLL-CALL.exe.config
+E:\sample_cs\VisualStudio2015_Sample\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.exe
+E:\sample_cs\VisualStudio2015_Sample\NADMS-DLL-CALL\NADMS-DLL-CALL\obj\Debug\NADMS-DLL-CALL.pdb

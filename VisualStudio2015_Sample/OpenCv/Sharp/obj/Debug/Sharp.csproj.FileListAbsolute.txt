@@ -1,0 +1,15 @@
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharpExtern.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\Sharp.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\Sharp.pdb
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.Blob.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.CPlusPlus.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.DebuggerVisualizers.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.Extensions.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.Gpu.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.MachineLearning.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\tmp\OpenCv\Sharp\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\tmp\OpenCv\Sharp\obj\Debug\Sharp.csprojResolveAssemblyReference.cache
+E:\tmp\OpenCv\Sharp\obj\Debug\Sharp.dll
+E:\tmp\OpenCv\Sharp\obj\Debug\Sharp.pdb

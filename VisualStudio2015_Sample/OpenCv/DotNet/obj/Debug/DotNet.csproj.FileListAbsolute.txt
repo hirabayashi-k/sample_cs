@@ -1,0 +1,14 @@
+E:\tmp\OpenCv\DotNet\bin\Debug\DotNet.dll
+E:\tmp\OpenCv\DotNet\bin\Debug\DotNet.pdb
+E:\tmp\OpenCv\DotNet\bin\Debug\OpenCV.Net.dll
+E:\tmp\OpenCv\DotNet\bin\Debug\OpenCV.Net.xml
+E:\tmp\OpenCv\DotNet\obj\Debug\DotNet.csprojResolveAssemblyReference.cache
+E:\tmp\OpenCv\DotNet\obj\Debug\DotNet.dll
+E:\tmp\OpenCv\DotNet\obj\Debug\DotNet.pdb
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\bin\Debug\DotNet.dll
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\bin\Debug\DotNet.pdb
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\bin\Debug\OpenCV.Net.dll
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\bin\Debug\OpenCV.Net.xml
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\obj\Debug\DotNet.csprojResolveAssemblyReference.cache
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\obj\Debug\DotNet.dll
+E:\sample_cs\VisualStudio2015_Sample\OpenCv\DotNet\obj\Debug\DotNet.pdb

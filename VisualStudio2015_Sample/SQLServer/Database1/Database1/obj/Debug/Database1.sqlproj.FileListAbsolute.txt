@@ -1,0 +1,9 @@
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\bin\Debug\Database1.dacpac
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\bin\Debug\Database1.dll
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\bin\Debug\Database1.pdb
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\Model.xml
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\refactor.xml
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\postdeploy.sql
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\predeploy.sql
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\Database1.dll
+E:\sample_cs\VisualStudio2015_Sample\SQLServer\Database1\Database1\obj\Debug\Database1.pdb
