@@ -1,0 +1,9 @@
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\bin\Debug\bitmap.exe.config
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\bin\Debug\bitmap.exe
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\bin\Debug\bitmap.pdb
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.csprojResolveAssemblyReference.cache
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.Form1.resources
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.Properties.Resources.resources
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.csproj.GenerateResource.Cache
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.exe
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\bitmap\bitmap\obj\Debug\bitmap.pdb

@@ -1,0 +1,8 @@
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\bin\Debug\ZoomImage.exe
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\bin\Debug\ZoomImage.pdb
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.csprojResolveAssemblyReference.cache
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.Form1.resources
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.Properties.Resources.resources
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.csproj.GenerateResource.Cache
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.exe
+E:\sample_cs\VisualStudio2015_Sample\Bitmap\ZoomImage\ZoomImage\obj\Debug\ZoomImage.pdb

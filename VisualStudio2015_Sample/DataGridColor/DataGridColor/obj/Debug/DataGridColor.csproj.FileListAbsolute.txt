@@ -1,0 +1,8 @@
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\bin\Debug\DataGridColor.exe.config
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\bin\Debug\DataGridColor.exe
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\bin\Debug\DataGridColor.pdb
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\obj\Debug\DataGridColor.Form1.resources
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\obj\Debug\DataGridColor.Properties.Resources.resources
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\obj\Debug\DataGridColor.csproj.GenerateResource.Cache
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\obj\Debug\DataGridColor.exe
+E:\sample_cs\VisualStudio2015_Sample\DataGridColor\DataGridColor\obj\Debug\DataGridColor.pdb

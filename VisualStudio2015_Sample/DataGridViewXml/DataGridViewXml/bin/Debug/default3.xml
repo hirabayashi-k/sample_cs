@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<slips_table>
+  <slips Name="A">
+    <sl_name>ke</sl_name>
+    <sl_id>S0001</sl_id>
+    <sl_date>2014/04/01</sl_date>
+    <sl_item>鉛筆</sl_item>
+    <sl_price>100</sl_price>
+    <sl_qty>10</sl_qty>
+  </slips>
+  <slips Name="B">
+    <sl_name>ke</sl_name>
+    <sl_id>S0002</sl_id>
+    <sl_date>2014/04/10</sl_date>
+    <sl_item>消しゴム</sl_item>
+    <sl_price>120</sl_price>
+    <sl_qty>5</sl_qty>
+  </slips>
+  <slips Name="C">
+    <sl_name>ke</sl_name>
+    <sl_id>S0003</sl_id>
+    <sl_date>2014/04/15</sl_date>
+    <sl_item>ノート</sl_item>
+    <sl_price>180</sl_price>
+    <sl_qty>3</sl_qty>
+  </slips>
+</slips_table>

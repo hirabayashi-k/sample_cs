@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <data>    
+    <日付>2010.09.23</日付>
+    <タイトル>Oracle 11g Release 2 ODAC 11.2.0.1.2 with Oracle Developer Tools for Visual Studioをインストールする</タイトル>
+    <URL>./oracle/odac/112012.aspx</URL>
+    <oracle>1</oracle>
+    <vb>1</vb>
+  </data>
+  <data>    
+    <日付>2010.08.29</日付>
+    <タイトル>Hello Azure - はじめてのAzureアプリ作成</タイトル>
+    <URL>./vb/Azure/helloazure.aspx</URL>
+    <cloud>1</cloud>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2010.08.28</日付>
+    <タイトル>Windows AzureをMSDN特別導入プランで無料利用するための設定方法</タイトル>
+    <URL>./vb/Azure/msdnasdp.aspx</URL>
+    <cloud>1</cloud>
+  </data>
+  <data>
+    <日付>2010.08.27</日付>
+    <タイトル>Azure Service Developer PortalでAzure動作環境を初期設定する</タイトル>
+    <URL>./vb/Azure/asdp.aspx</URL>
+    <cloud>1</cloud>
+  </data>
+  <data>
+    <日付>2010.06.20</日付>
+    <タイトル>Hyper-VにOracle Enterprise Linux Release5を導入する</タイトル>
+    <URL>./Oracle/orel5/orel5-v.aspx</URL>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2009.11.08</日付>
+    <タイトル>Visual Studio 2010 β2 痛IDE化</タイトル>
+    <URL>./vb/IDE/IDE.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.10.25</日付>
+    <タイトル>【わんくま名古屋勉強会#4】emone α プログラミング入門</タイトル>
+    <URL>./seminar/nagoya04/index.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.09.20</日付>
+    <タイトル>【わんくま東京勉強会#24】Twitterクライアントに学ぶASP.NETアプリ</タイトル>
+    <URL>./seminar/tokyo24/index.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.08.09</日付>
+    <タイトル>【わんくま東京勉強会#23】MVP for VBが語るC#入門</タイトル>
+    <URL>./seminar/tokyo23/index.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.07.12</日付>
+    <タイトル>【わんくま東京勉強会#22】Visual Basic 2008 + Oracle Database 11g Release 1 - Part.3</タイトル>
+    <URL>./seminar/tokyo22/index.aspx</URL>
+    <vb>1</vb>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2008.07.02</日付>
+    <タイトル>Twitter-APIについて</タイトル>
+    <URL>./vb/twitter/API.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.06.07</日付>
+    <タイトル>【わんくま大阪勉強会#19】MikuMikuDance</タイトル>
+    <URL>./seminar/osaka19MMD/index.aspx</URL>
+    <miku>1</miku>
+  </data>
+  <data>
+    <日付>2008.06.07</日付>
+    <タイトル>【わんくま大阪勉強会#19】VOCALOID 2 初音ミク</タイトル>
+    <URL>./seminar/osaka19miku/index.aspx</URL>
+    <miku>1</miku>
+  </data>
+  <data>
+    <日付>2008.06.07</日付>
+    <タイトル>【わんくま大阪勉強会#19】Visual Basic 2008 + Oracle Database 11g Release 1 - Part.2</タイトル>
+    <URL>./seminar/osaka19/index.aspx</URL>
+    <vb>1</vb>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2008.05.31</日付>
+    <タイトル>【わんくま東京勉強会#20】いまさら聞けないVB2008 ADO.NET超入門</タイトル>
+    <URL>./seminar/tokyo20/index.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.05.13</日付>
+    <タイトル>Visual Studio Team SystemをDevelopment EditionからTeam Suiteにする</タイトル>
+    <URL>./vb/TeamSuite/upgrade.aspx</URL>
+    <vb>1</vb>
+  </data>
+  <data>
+    <日付>2008.04.07</日付>
+    <タイトル>ASP.NETでRDBMSやテキストファイルを使って認証する</タイトル>
+    <URL>./vb/auth/auth.aspx</URL>
+    <vb>1</vb>
+    <asp>1</asp>
+  </data>
+  <data>
+    <日付>2008.04.05</日付>
+    <タイトル>【わんくま東京勉強会#19】昼休みもみっくみくにしてやんよ！</タイトル>
+    <URL>./seminar/tokyo19/index.aspx</URL>
+    <miku>1</miku>
+  </data>
+  <data>
+    <日付>2008.03.15</日付>
+    <タイトル>【わんくま東京勉強会#18】10分で分かるMikuMikuDanceの世界</タイトル>
+    <URL>./seminar/tokyo18/index.aspx</URL>
+    <miku>1</miku>
+  </data>
+  <data>
+    <日付>2008.02.14</日付>
+    <タイトル>Music Creater 4と初音ミクをReWireで同期する</タイトル>
+    <URL>./miku/rewire.aspx</URL>
+    <miku>1</miku>
+  </data>
+  <data>
+    <日付>2008.01.24</日付>
+    <タイトル>【わんくま東京勉強会#16】Visual Basic 2008 + Oracle Database 11g Release 1 - Part.1</タイトル>
+    <URL>./seminar/tokyo16/index.aspx</URL>
+    <vb>1</vb>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2008.01.16</日付>
+    <タイトル>Oracle Instant Clientを導入する</タイトル>
+    <URL>./Oracle/oic/install.aspx</URL>
+    <vb>1</vb>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2008.01.05</日付>
+    <タイトル>Oracle Database 11g Release 1 for Linuxでデータベースを作成する</タイトル>
+    <URL>./Oracle/orel5/ora11gdb.aspx</URL>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2008.01.01</日付>
+    <タイトル>Oracle Enterprise Linux Release 5にOracle Database 11g Release 1を導入する</タイトル>
+    <URL>./Oracle/orel5/ora11g.aspx</URL>
+    <oracle>1</oracle>
+  </data>
+  <data>
+    <日付>2007.12.31</日付>
+    <タイトル>Virtual PC 2007にOracle Enterprise Linux Release5を導入する</タイトル>
+    <URL>./Oracle/orel5/orel5.aspx</URL>
+    <oracle>1</oracle>
+  </data>
+</DocumentElement>

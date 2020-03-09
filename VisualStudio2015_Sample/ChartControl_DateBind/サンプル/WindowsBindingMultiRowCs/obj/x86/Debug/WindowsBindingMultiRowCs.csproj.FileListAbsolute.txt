@@ -1,0 +1,10 @@
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\bin\Debug\data.xml
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\bin\Debug\WindowsBindingMultiRowCs.exe
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\bin\Debug\WindowsBindingMultiRowCs.pdb
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.csprojResolveAssemblyReference.cache
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.BindingMultiRow_Form.resources
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.Properties.Resources.resources
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.View_Form.resources
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.csproj.GenerateResource.Cache
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.exe
+C:\Users\Hirabayashi_Kota\Desktop\WindowsBindingMultiRowCs\obj\x86\Debug\WindowsBindingMultiRowCs.pdb
