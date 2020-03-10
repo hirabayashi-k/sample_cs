@@ -1,0 +1,4 @@
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\bin\Debug\HogePlugin.dll
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\bin\Debug\HogePlugin.pdb
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogePlugin\obj\Debug\HogePlugin.dll
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogePlugin\obj\Debug\HogePlugin.pdb

@@ -1,0 +1,9 @@
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\bin\Debug\HogeMain.exe
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\bin\Debug\HogeMain.pdb
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.csprojResolveAssemblyReference.cache
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.Form1.resources
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.Properties.Resources.resources
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.UserControlTest.resources
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.csproj.GenerateResource.Cache
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.exe
+E:\sample_cs\VisualStudio2010_Sample\PluginTest\HogePlugin\HogeMain\obj\x86\Debug\HogeMain.pdb
