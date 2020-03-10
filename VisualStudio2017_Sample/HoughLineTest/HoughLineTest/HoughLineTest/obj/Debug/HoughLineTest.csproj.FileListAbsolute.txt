@@ -1,0 +1,80 @@
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe.config
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Form1.resources
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Properties.Resources.resources
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.GenerateResource.cache
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CoreCompileInputs.cache
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CopyComplete
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.exe
+F:\ADSTEC\GHmask\Ver_1_1_0_0\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe.config
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.dll
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.pdb
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.xml
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csprojAssemblyReference.cache
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Form1.resources
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Properties.Resources.resources
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.GenerateResource.cache
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CoreCompileInputs.cache
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CopyComplete
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.exe
+F:\ADSTEC\GHmask\Ver_1_1_0_0 _takt\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe.config
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.exe
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\HoughLineTest.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.dll
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.xml
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Blob.xml
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.Extensions.xml
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.pdb
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\bin\Debug\OpenCvSharp.UserInterface.xml
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Form1.resources
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.csproj.CopyComplete
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.exe
+E:\sample_cs\VisualStudio2017_Sample\HoughLineTest\HoughLineTest\HoughLineTest\obj\Debug\HoughLineTest.pdb

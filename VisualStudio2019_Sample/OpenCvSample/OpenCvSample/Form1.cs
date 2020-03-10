@@ -21,7 +21,7 @@ namespace OpenCvSample
         private void Button1_Click(object sender, EventArgs e)
         {
             //画像ファイル読み込み
-            Mat img = new Mat(@"E:\02_work\ADSTEC\08575-01　ファンデーション\カメラ2_190722_150128_No00020.bmp");
+            Mat img = new Mat(@"カメラ1_181212_211033_No00003.bmp");
             Mat img2 = img.Clone();
             Mat img3 = img.Clone();
 
@@ -42,7 +42,7 @@ namespace OpenCvSample
         /// <param name="e"></param>
         private void Button2_Click(object sender, EventArgs e)
         {
-            var src = Cv2.ImRead(@"E:\02_work\ADSTEC\08575-01　ファンデーション\カメラ2_190722_150128_No00020.bmp");
+            var src = Cv2.ImRead(@"カメラ1_181212_211033_No00003.bmp");
             var dst = new Mat();
 
             Cv2.CvtColor(src, dst, ColorConversionCodes.BGRA2GRAY);
@@ -53,7 +53,7 @@ namespace OpenCvSample
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Mat img = new Mat(@"E:\02_work\ADSTEC\08575-01　ファンデーション\カメラ2_190722_150128_No00020.bmp");
+            Mat img = new Mat(@"カメラ1_181212_211033_No00003.bmp");
             Mat img2 = img.Clone();
 
             //反転
@@ -64,7 +64,7 @@ namespace OpenCvSample
         private void button4_Click(object sender, EventArgs e)
         {
 
-            Mat gray = new Mat(@"E:\02_work\ADSTEC\08575-01　ファンデーション\カメラ2_190722_150128_No00020.bmp");
+            Mat gray = new Mat(@"カメラ1_181212_211033_No00003.bmp");
             gray = gray.CvtColor(ColorConversionCodes.BGRA2GRAY);
 
             Mat bin = gray.Clone();

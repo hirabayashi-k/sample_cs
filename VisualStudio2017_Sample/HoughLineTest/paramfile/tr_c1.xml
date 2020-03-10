@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Param xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xmlver>100</xmlver>
+  <filtersize>30</filtersize>
+  <threshold>100</threshold>
+  <cannyparam1>20</cannyparam1>
+  <cannyparam2>100</cannyparam2>
+  <houghthreshold>300</houghthreshold>
+  <houghparam1>200</houghparam1>
+  <houghparam2>200</houghparam2>
+  <maxtilt>20</maxtilt>
+  <invalidareaX1>1</invalidareaX1>
+  <invalidareaX2>1</invalidareaX2>
+  <invalidareaY1>1</invalidareaY1>
+  <invalidareaY2>1</invalidareaY2>
+  <offsetX1>0</offsetX1>
+  <offsetX2>0</offsetX2>
+  <offsetY1>-20</offsetY1>
+  <offsetY2>20</offsetY2>
+  <R>180</R>
+  <p1p2distance>500</p1p2distance>
+</Param>
