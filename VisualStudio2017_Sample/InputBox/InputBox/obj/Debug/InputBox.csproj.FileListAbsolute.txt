@@ -8,3 +8,13 @@ E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.GenerateR
 E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
 E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.exe
 E:\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.pdb
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.exe.config
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.exe
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\bin\Debug\InputBox.pdb
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.InputDialog.resources
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.exe
+E:\sample_cs\VisualStudio2017_Sample\InputBox\InputBox\obj\Debug\InputBox.pdb

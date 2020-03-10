@@ -1,0 +1,11 @@
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\bin\Debug\VisaCom.exe.config
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\bin\Debug\VisaCom.exe
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\bin\Debug\VisaCom.pdb
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\bin\Debug\TekVISANet.dll
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.Form1.resources
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.Properties.Resources.resources
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.csproj.GenerateResource.cache
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.csproj.CoreCompileInputs.cache
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.csproj.CopyComplete
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.exe
+E:\97_VS2017テストプロジェクト\VisaCom\VisaCom\obj\Debug\VisaCom.pdb

@@ -7,3 +7,13 @@ E:\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.csproj.GenerateReso
 E:\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.csproj.CoreCompileInputs.cache
 E:\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.exe
 E:\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.pdb
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\bin\Debug\AppCall.exe.config
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\bin\Debug\AppCall.exe
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\bin\Debug\AppCall.pdb
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.Form1.resources
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.exe
+E:\sample_cs\VisualStudio2017_Sample\AppCall\AppCall\obj\Debug\AppCall.pdb

@@ -17,10 +17,15 @@ namespace AppCall
             InitializeComponent();
         }
 
+        /// <summary>
+        /// 管理者で実行
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process p =
-            System.Diagnostics.Process.Start(@"E:\VisualStudio2017_Sample\TimeChange\TimeChange\bin\Debug\TimeChange.exe");
+            System.Diagnostics.Process.Start(@"E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\bin\Debug\TimeChange.exe");
             p.WaitForExit();
         }
     }

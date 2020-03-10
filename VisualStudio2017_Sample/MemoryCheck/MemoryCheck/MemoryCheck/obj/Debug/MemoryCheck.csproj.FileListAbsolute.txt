@@ -8,3 +8,13 @@ E:\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryC
 E:\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.csproj.CoreCompileInputs.cache
 E:\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.exe
 E:\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.pdb
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\bin\Debug\MemoryCheck.exe.config
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\bin\Debug\MemoryCheck.exe
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\bin\Debug\MemoryCheck.pdb
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.Form1.resources
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.exe
+E:\sample_cs\VisualStudio2017_Sample\MemoryCheck\MemoryCheck\MemoryCheck\obj\Debug\MemoryCheck.pdb

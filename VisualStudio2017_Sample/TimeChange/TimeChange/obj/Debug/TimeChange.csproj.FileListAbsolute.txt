@@ -7,3 +7,13 @@ E:\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.exe
 E:\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.pdb
 E:\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.InputDialog.resources
 E:\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.csprojResolveAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\bin\Debug\TimeChange.exe.config
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\bin\Debug\TimeChange.exe
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\bin\Debug\TimeChange.pdb
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.InputDialog.resources
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.exe
+E:\sample_cs\VisualStudio2017_Sample\TimeChange\TimeChange\obj\Debug\TimeChange.pdb

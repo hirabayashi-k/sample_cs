@@ -1,0 +1,10 @@
+E:\97_VS2017テストプロジェクト\Serial\Serial\bin\Debug\Serial.exe.config
+E:\97_VS2017テストプロジェクト\Serial\Serial\bin\Debug\Serial.exe
+E:\97_VS2017テストプロジェクト\Serial\Serial\bin\Debug\Serial.pdb
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.Form1.resources
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.Properties.Resources.resources
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.csproj.GenerateResource.Cache
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.exe
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.pdb
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.csprojAssemblyReference.cache
+E:\97_VS2017テストプロジェクト\Serial\Serial\obj\Debug\Serial.csproj.CoreCompileInputs.cache

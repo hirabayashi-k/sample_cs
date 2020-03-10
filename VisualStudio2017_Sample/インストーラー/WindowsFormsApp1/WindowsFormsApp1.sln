@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{C8EA7636-3DA9-4E1B-9554-FDA03257B2C1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{B1CC2CAA-8A6E-4C90-845A-3C250350A38B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8EA7636-3DA9-4E1B-9554-FDA03257B2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8EA7636-3DA9-4E1B-9554-FDA03257B2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8EA7636-3DA9-4E1B-9554-FDA03257B2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8EA7636-3DA9-4E1B-9554-FDA03257B2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1CC2CAA-8A6E-4C90-845A-3C250350A38B}.Debug|Any CPU.ActiveCfg = Debug
+		{B1CC2CAA-8A6E-4C90-845A-3C250350A38B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

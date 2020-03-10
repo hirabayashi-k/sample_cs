@@ -1,0 +1,8 @@
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\97_VS2017テストプロジェクト\インストーラー\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

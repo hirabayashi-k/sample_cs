@@ -50,14 +50,6 @@ namespace TimeChange
 
             DateTime time = new DateTime(2019,07,15,9,0,0);
 
-            if (time < DateTime.Now)
-            {
-                MessageBox.Show("OK");
-            }
-            else
-            {
-
-            }
 
         }
 

@@ -8,3 +8,13 @@ E:\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.csproj.Generate
 E:\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
 E:\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.exe
 E:\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.pdb
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\bin\Debug\Thread.exe.config
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\bin\Debug\Thread.exe
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\bin\Debug\Thread.pdb
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.Form1.resources
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.exe
+E:\sample_cs\VisualStudio2017_Sample\Thread\Thread\Thread\obj\Debug\Thread.pdb

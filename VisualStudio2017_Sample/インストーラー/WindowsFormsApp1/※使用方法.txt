@@ -1,0 +1,4 @@
+https://www.osadasoft.com/visual-studio-2017%E3%81%A7%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A9%E4%BD%9C%E6%88%90/
+[ツール]＞[拡張機能と更新プログラム]メニューを開く。
+「拡張機能と更新プログラム」ダイアログが表示されるので、画面左側のツリーから「オンライン」を選択し、画面右上の検索ボックスで「Installer Projects」を指定し検索。
+すると、「Microsoft Visual Studio 2017 Installer Projects」が引っ掛かるので、これを「ダウンロード」。
