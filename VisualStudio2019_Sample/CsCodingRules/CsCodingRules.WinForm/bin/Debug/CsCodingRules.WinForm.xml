@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CsCodingRules.WinForm</name>
+    </assembly>
+    <members>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.#ctor">
+            <summary>
+            画面の1
+            </summary>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.GetData">
+            <summary>
+            データ取得
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.components">
+            <summary>
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.Dispose(System.Boolean)">
+            <summary>
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.InitializeComponent">
+            <summary>
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Program.Main">
+            <summary>
+            アプリケーションのメイン エントリ ポイントです。
+            </summary>
+        </member>
+        <member name="T:OnePluseOne.CsCodingRules.WinForm.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:OnePluseOne.CsCodingRules.WinForm.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:OnePluseOne.CsCodingRules.WinForm.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>

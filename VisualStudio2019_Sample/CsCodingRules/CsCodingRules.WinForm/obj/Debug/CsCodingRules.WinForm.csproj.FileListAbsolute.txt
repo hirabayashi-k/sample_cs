@@ -1,0 +1,10 @@
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\bin\Debug\CsCodingRules.WinForm.exe.config
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\bin\Debug\CsCodingRules.WinForm.exe
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\bin\Debug\CsCodingRules.WinForm.pdb
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\CsCodingRules.WinForm.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\CsCodingRules.WinForm.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\CsCodingRules.WinForm.exe
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\CsCodingRules.WinForm.pdb
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\OnePluseOne.CsCodingRules.WinForm.Properties.Resources.resources
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\bin\Debug\CsCodingRules.WinForm.xml
+E:\sample_cs\VisualStudio2019_Sample\CsCodingRules\CsCodingRules.WinForm\obj\Debug\CsCodingRules.WinForm.csprojAssemblyReference.cache
