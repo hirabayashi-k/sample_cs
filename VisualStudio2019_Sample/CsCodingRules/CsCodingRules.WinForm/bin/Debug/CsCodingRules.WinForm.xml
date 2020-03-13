@@ -4,16 +4,78 @@
         <name>CsCodingRules.WinForm</name>
     </assembly>
     <members>
+        <member name="T:OnePluseOne.CsCodingRules.WinForm.Form1">
+            <summary>
+            メインフォーム
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.UserId">
+            <summary>
+            ユーザーID
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.UserIDNumber">
+            <summary>
+            ユーザーID　メンバー
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1._userName">
+            <summary>
+            ユーザーネーム
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1._userId">
+            <summary>
+            ユーザーID
+            </summary>
+        </member>
         <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.#ctor">
             <summary>
-            画面の1
+            Initializes a new instance of the <see cref="T:OnePluseOne.CsCodingRules.WinForm.Form1"/> class.
             </summary>
+        </member>
+        <member name="E:OnePluseOne.CsCodingRules.WinForm.Form1.ProductIdChanged">
+            <summary>
+            製品変更Action
+            </summary>
+        </member>
+        <member name="T:OnePluseOne.CsCodingRules.WinForm.Form1.ProductMode">
+            <summary>
+            製品モード
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.ProductMode.Normal">
+            <summary>
+            ノーマル
+            </summary>
+        </member>
+        <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.ProductMode.Level1">
+            <summary>
+            レベル1
+            </summary>
+        </member>
+        <member name="P:OnePluseOne.CsCodingRules.WinForm.Form1.ProductId">
+            <summary>
+            製品取得 
+            </summary>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.SetData(System.String)">
+            <summary>
+            データセット
+            </summary>
+            <param name="userName">Name</param>
+        </member>
+        <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.SetDataUserId(System.Int32)">
+            <summary>
+            ユザーID設定
+            </summary>
+            <param name="userId">ユーザーID</param>
         </member>
         <member name="M:OnePluseOne.CsCodingRules.WinForm.Form1.GetData">
             <summary>
             データ取得
             </summary>
-            <returns></returns>
+            <returns>データ</returns>
         </member>
         <member name="F:OnePluseOne.CsCodingRules.WinForm.Form1.components">
             <summary>
@@ -30,6 +92,11 @@
             <summary>
             デザイナー サポートに必要なメソッドです。このメソッドの内容を
             コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OnePluseOne.CsCodingRules.WinForm.Program">
+            <summary>
+            メインエントリクラス
             </summary>
         </member>
         <member name="M:OnePluseOne.CsCodingRules.WinForm.Program.Main">
