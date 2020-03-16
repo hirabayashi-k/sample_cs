@@ -1,0 +1,10 @@
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\bin\Debug\CsCodingRules.exe.config
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\bin\Debug\CsCodingRules.exe
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\bin\Debug\CsCodingRules.pdb
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\CsCodingRules.csprojAssemblyReference.cache
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\CsCodingRules.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\CsCodingRules.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\CsCodingRules.exe
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\CsCodingRules.pdb
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\obj\Debug\Takt.CsCodingRules.Properties.Resources.resources
+E:\sample_cs\VisualStudio2017_Sample\CsCodingRules\CsCodingRules\CsCodingRules\bin\Debug\CsCodingRules.xml

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CsCodingRules</name>
+    </assembly>
+    <members>
+        <member name="T:Takt.CsCodingRules.WinForm.Form1">
+            <summary>
+            メインフォーム
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1.UserId">
+            <summary>
+            ユーザーID
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1.UserIDNumber">
+            <summary>
+            ユーザーID　メンバー
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1._userName">
+            <summary>
+            ユーザーネーム
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1._userId">
+            <summary>
+            ユーザーID
+            </summary>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="E:Takt.CsCodingRules.WinForm.Form1.ProductIdChanged">
+            <summary>
+            製品変更Action
+            </summary>
+        </member>
+        <member name="T:Takt.CsCodingRules.WinForm.Form1.ProductMode">
+            <summary>
+            製品モード
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1.ProductMode.Normal">
+            <summary>
+            ノーマル
+            </summary>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1.ProductMode.Level1">
+            <summary>
+            レベル1
+            </summary>
+        </member>
+        <member name="P:Takt.CsCodingRules.WinForm.Form1.ProductId">
+            <summary>
+            製品取得 
+            </summary>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.SetData(System.String)">
+            <summary>
+            データセット
+            </summary>
+            <param name="userName">Name</param>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.SetDataUserId(System.Int32)">
+            <summary>
+            ユザーID設定
+            </summary>
+            <param name="userId">ユーザーID</param>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.GetData">
+            <summary>
+            データ取得
+            </summary>
+            <returns>データ</returns>
+        </member>
+        <member name="F:Takt.CsCodingRules.WinForm.Form1.components">
+            <summary>
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.Dispose(System.Boolean)">
+            <summary>
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:Takt.CsCodingRules.WinForm.Form1.InitializeComponent">
+            <summary>
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:Takt.CsCodingRules.Program">
+            <summary>
+            メインエントリクラス
+            </summary>
+        </member>
+        <member name="M:Takt.CsCodingRules.Program.Main">
+            <summary>
+            アプリケーションのメイン エントリ ポイントです。
+            </summary>
+        </member>
+        <member name="T:Takt.CsCodingRules.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:Takt.CsCodingRules.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:Takt.CsCodingRules.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,12 +1,12 @@
 ﻿//----------------------------------------------------------------------
 // Csコーディングルール
-//-------------------------------------------------------------------------
-// @author 平林＠ワンプラスワン
+//----------------------------------------------------------------------
+// @author 平林＠タクト
 // 
-// @date 2020/03/12 平林＠ワンプラスワン　作成開始
+// @date 2020/03/12 平林＠タクト　作成開始
 // 
-// Copyright (C) 2020 Hirabayashi Kota, OnePluseOne
-//--------------------------------------------------------------------------
+// Copyright (C) 2020 Hirabayashi Kota, Takt
+//----------------------------------------------------------------------
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -17,7 +17,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OnePluseOne.CsCodingRules.WinForm
+namespace Takt.CsCodingRules.WinForm
 {
     // ★ 名前の付け方ルール https://docs.microsoft.com/ja-jp/dotnet/standard/design-guidelines/naming-guidelines
     // ①英語名でつける
@@ -48,7 +48,7 @@ namespace OnePluseOne.CsCodingRules.WinForm
     //  ⑤　namespace作成規則
     //      会社名+製品名+プロジェクト名+フォルダー名
     //      プロジェクト名  WinForm とか　WPFとか　LIB
-    //  ⑥ private変数に名に_をつける
+    //  ⑥ private変数名に_をつける
     //      _userName
     //     メソッド内の変数とクラス変数が区別できる
     //     アンダーバーを打ち込むとインテリセンスにクラス内変数のみが表示される
@@ -179,7 +179,7 @@ namespace OnePluseOne.CsCodingRules.WinForm
         public void SetData(string userName)
         {
             _userName = userName;
-            MessageBox.Show(userName);
+            MessageBox.Show(userName);            
         }
 
         /// <summary>
@@ -205,10 +205,6 @@ namespace OnePluseOne.CsCodingRules.WinForm
         #endregion
 
         #region Structs
-
-        #endregion
-
-        #region Classes
 
         #endregion
     }
