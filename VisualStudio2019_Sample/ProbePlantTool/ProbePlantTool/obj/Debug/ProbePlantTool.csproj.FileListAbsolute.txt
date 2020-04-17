@@ -1,0 +1,11 @@
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\bin\Debug\ProbePlantTool.exe.config
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\bin\Debug\ProbePlantTool.xml
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\bin\Debug\ProbePlantTool.exe
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\bin\Debug\ProbePlantTool.pdb
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\Takt.ProbePlantTool.Properties.Resources.resources
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\ProbePlantTool.csproj.GenerateResource.cache
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\ProbePlantTool.csproj.CoreCompileInputs.cache
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\ProbePlantTool.exe
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\ProbePlantTool.pdb
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\Takt.ProbePlantTool.Forms.MainForm.resources
+E:\sample_cs\VisualStudio2019_Sample\ProbePlantTool\ProbePlantTool\obj\Debug\ProbePlantTool.csprojAssemblyReference.cache

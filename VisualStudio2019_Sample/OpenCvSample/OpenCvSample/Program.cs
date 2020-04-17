@@ -6,13 +6,16 @@ using System.Windows.Forms;
 
 namespace OpenCvSample
 {
-    static class Program
+    /// <summary>
+    /// エントリプログラム
+    /// </summary>
+    public static class Program
     {
         /// <summary>
         /// アプリケーションのメイン エントリ ポイントです。
         /// </summary>
         [STAThread]
-        static void Main()
+        public static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

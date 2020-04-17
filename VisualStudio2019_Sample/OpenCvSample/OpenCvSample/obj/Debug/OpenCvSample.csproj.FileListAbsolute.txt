@@ -52,3 +52,8 @@ E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvS
 E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.csproj.CopyComplete
 E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.exe
 E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.pdb
+E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\bin\Debug\OpenCvSample.xml
+E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.UserCon.GeneralBaseUserControl.resources
+E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.UserCon.BinarizationUserControl.resources
+E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.UserCon.GammaUserControl.resources
+E:\sample_cs\VisualStudio2019_Sample\OpenCvSample\OpenCvSample\obj\Debug\OpenCvSample.Forms.ExecInfoForm.resources

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenCvSample</name>
+    </assembly>
+    <members>
+        <member name="T:OpenCvSample.Form1">
+            <summary>
+            OpenCvサンプル
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            トリミング
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            グレースケース
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            bit反転
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button4_Click(System.Object,System.EventArgs)">
+            <summary>
+            輪郭抽出
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button5_Click(System.Object,System.EventArgs)">
+            <summary>
+            ガンマ変換
+            gammaが高い場合、色が薄くなり　gammaが低い場合、色が薄くなる
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button6_Click(System.Object,System.EventArgs)">
+            <summary>
+            ヒストグラム　平坦化
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button7_Click(System.Object,System.EventArgs)">
+            <summary>
+            2値化
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button8_Click(System.Object,System.EventArgs)">
+            <summary>
+            2値トラックバー付き
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button9_Click(System.Object,System.EventArgs)">
+            <summary>
+            アファイン変換 1
+            平行移動
+            
+            https://imagingsolution.net/program/globaltransformations/
+            https://qiita.com/qinojp/items/d2d9a68a962b34b62888
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button10_Click(System.Object,System.EventArgs)">
+            <summary>
+            アファイン変換
+            回転
+            https://imagingsolution.net/program/globaltransformations/
+            https://qiita.com/qinojp/items/d2d9a68a962b34b62888
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="F:OpenCvSample.Form1.components">
+            <summary>
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.Dispose(System.Boolean)">
+            <summary>
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.InitializeComponent">
+            <summary>
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.Program">
+            <summary>
+            エントリプログラム
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Program.Main">
+            <summary>
+            アプリケーションのメイン エントリ ポイントです。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>

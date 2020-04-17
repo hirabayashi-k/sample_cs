@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ProbePlantTool</name>
+    </assembly>
+    <members>
+        <member name="T:Takt.ProbePlantTool.Datas.GBdata">
+            <summary>
+            グローバルデータ
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.GBdata.PinMapDatas">
+            <summary>
+            ピンマップデータリスト
+            </summary>
+        </member>
+        <member name="T:Takt.ProbePlantTool.Datas.PinMapData">
+            <summary>
+            ピンマップデータ
+            </summary>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Datas.PinMapData.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.PinMapData.Name">
+            <summary>
+            ピン名
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.PinMapData.PinPloatAdress">
+            <summary>
+            ピンアドレス名
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.PinMapData.XAdress">
+            <summary>
+            Xアドレス
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.PinMapData.YAdress">
+            <summary>
+            Yアドレス
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Datas.PinMapData.Side">
+            <summary>
+            サイド　AorB
+            </summary>
+        </member>
+        <member name="T:Takt.ProbePlantTool.Forms.MainForm">
+            <summary>
+            メインフォーム
+            </summary>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.DrawPinBord(System.Int32)">
+            <summary>
+            PinBordnの描画
+            </summary>
+            <param name="tpcount">TPの個数</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.StartButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            スタートボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">ButtonEvent</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.StopButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            ストップボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">ButtonEvent</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.LoadButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            ロードボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">ButtonEvent</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.SettingDataGridView_SelectionChanged(System.Object,System.EventArgs)">
+            <summary>
+            データグリッド選択変更前イベント
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">Event</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.SettingDataGridView_CurrentCellChanged(System.Object,System.EventArgs)">
+            <summary>
+            データグリッド選択変更イベント
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">Event</param>
+        </member>
+        <member name="F:Takt.ProbePlantTool.Forms.MainForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Forms.MainForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Takt.ProbePlantTool.Program">
+            <summary>
+            エントリポイント
+            </summary>
+        </member>
+        <member name="M:Takt.ProbePlantTool.Program.Main">
+            <summary>
+            アプリケーションのメイン エントリ ポイントです。
+            </summary>
+        </member>
+        <member name="T:Takt.ProbePlantTool.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:Takt.ProbePlantTool.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>

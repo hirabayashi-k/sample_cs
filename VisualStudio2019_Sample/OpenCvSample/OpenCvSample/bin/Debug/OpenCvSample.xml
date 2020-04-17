@@ -1,0 +1,844 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenCvSample</name>
+    </assembly>
+    <members>
+        <member name="T:OpenCvSample.Forms.ExecInfoForm">
+            <summary>
+            変更画面
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.Forms.ExecInfoForm._obj">
+            <summary>
+            解析
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.SetData(OpenCvSample.ImgAnalyze.AnalyzeBase)">
+            <summary>
+            解析クラスの設定
+            </summary>
+            <param name="obj">解析クラス</param>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.GetData">
+            <summary>
+            解析クラス取得
+            </summary>
+            <returns>解析クラス</returns>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.ExecInfoForm_Load(System.Object,System.EventArgs)">
+            <summary>
+            ロード
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.OKButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            OK
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.CancelButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Cancel
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:OpenCvSample.Forms.ExecInfoForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:OpenCvSample.Forms.ExecInfoForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnalyzeBase">
+            <summary>
+            解析クラスベース
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnalyzeBase.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnalyzeSmooth">
+            <summary>
+            平滑化フィルタ
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Neighborhood">
+            <summary>
+            近傍
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Type">
+            <summary>
+            タイプ ENUM
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Type.Blur">
+            <summary>
+            ブーリーフィルタ
+            
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Type.Gaussian">
+            <summary>
+            ガウシアンフィルタ
+            
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Type.Median">
+            <summary>
+            メディアンフィルタ
+            
+            
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Type.Bilateral">
+            <summary>
+            バイラテラルフィルタ
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.ImgAnalyze.AnalyzeSmooth.FilterType">
+            <summary>
+            フィルタータイプ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnalyzeSmooth.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ(グレースケール画像)</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnBinarization">
+            <summary>
+            ２値化
+            グレースケールにしてから使用
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnBinarization.Type">
+            <summary>
+            タイプ ENUM
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnBinarization.Type.Binary">
+            <summary>
+            バイナリー
+            閾値に設定したバイナリー画素値を白か黒に振り分ける
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnBinarization.Type.Otsu">
+            <summary>
+            オーツ
+            分離度という値が最大となるしきい値を求め、自動的に二値化を行う手法
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.AnBinarization.Type.Adaptive">
+            <summary>
+            アダプティブ 適応的閾値処理
+            画像全体の中で任意の大きさの局所領域を設定し、その領域の中で閾値の計算を行い、1つ1つの画素を二値化して行く
+            画像の画素全体の二値化を「各領域に合わせた閾値で」行うことができる
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.ImgAnalyze.AnBinarization.Threshold">
+            <summary>
+            閾値
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.ImgAnalyze.AnBinarization.BinType">
+            <summary>
+            タイプGetSet
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnBinarization.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ(グレースケール画像)</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnBitInversion">
+            <summary>
+            ビット反転
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnBitInversion.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnGamma">
+            <summary>
+            ガンマ変換クラス
+            
+            ガンマ補正（変換）は、画像のコントラストを調節し、視認しやすくするのによく使われています。
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.ImgAnalyze.AnGamma.Gamma">
+            <summary>
+            ガンマ閾値
+            γ > 1 コントラストが全体的に明るくなる。（明部の差は小さく、暗部の差は大きくなる）　
+            γ = 1 変化なし
+            1  > γ コントラストが全体的に暗くなる。（明部の差は大きく、暗部の差は小さくなる）
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnGamma.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnGrayscale">
+            <summary>
+            グレースケール
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnGrayscale.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.AnHistogram">
+            <summary>
+            ヒストグラム
+            画素値の分布を平坦化することで画像のコントラストを改善する
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.ImgAnalyze.AnHistogram.Analyze(OpenCvSharp.Mat,OpenCvSharp.Mat@,System.Boolean)">
+            <summary>
+            解析ベースメソッド
+            </summary>
+            <param name="inImg">入力イメージ(グレースケール)</param>
+            <param name="outImg">出力イメージ</param>
+            <param name="view">結果表示</param>
+            <returns>解析結果</returns>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.OpenCvUtils">
+            <summary>
+            OpenCvユーティリティ
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList">
+            <summary>
+            変換種類
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.Grayscale">
+            <summary>
+            グレースケール
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.BitInversion">
+            <summary>
+            Bit反転
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.Gamma">
+            <summary>
+            ガンマ変換
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.Histogram">
+            <summary>
+            ヒストグラム
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.Binarization">
+            <summary>
+            ２値
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.AffineTranslation">
+            <summary>
+            アフィン変換 平行移動
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.AffineRotation">
+            <summary>
+            アフィン変換 回転
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.SmoothinBlur">
+            <summary>
+            平滑化 Blur
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.SmoothinGaussianBlur">
+            <summary>
+            平滑化 ガウシアン
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.SmoothinMedianBlur">
+            <summary>
+            平滑化 メディアン
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.ImgAnalyze.OpenCvUtils.ConversionList.SmoothinBilateral">
+            <summary>
+            平滑化 バイラテラル
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.Form1">
+            <summary>
+            OpenCvサンプル
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.Form1._tabPages">
+            <summary>
+            画像表示タブ
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.Form1._conversPanel">
+            <summary>
+            変換詳細表示ユーザーコントロール
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.Form1._analyzeList">
+            <summary>
+            解析クラスリスト
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.Form1._tabactionflg">
+            <summary>
+            tab動作中フラグ
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.Form1._listactionflg">
+            <summary>
+            list動作中フラグ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.FileNameTextBox_DragDrop(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            ドラッグアンドドロップ
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.FileNameTextBox_DragEnter(System.Object,System.Windows.Forms.DragEventArgs)">
+            <summary>
+            ドラッグエンター
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.AddButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            追加
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.DelButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            削除
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.UpButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Upボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.DownButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            Downボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.ExecButton_Click(System.Object,System.EventArgs)">
+            <summary>
+            実行ボタン
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.MakeAnalyzeList">
+            <summary>
+            解析クラスリストの作成
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.TabMake">
+            <summary>
+            タブ作成
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.Sample(System.Int32)">
+            <summary>
+            MSTestサンプル
+            </summary>
+            <param name="a">数値</param>
+            <returns>結果</returns>
+        </member>
+        <member name="M:OpenCvSample.Form1.SampleTest2">
+            <summary>
+            MSTestサンプル2
+            </summary>
+            <returns>結果</returns>
+        </member>
+        <member name="M:OpenCvSample.Form1.LogAdd(System.String)">
+            <summary>
+            ログ出力
+            </summary>
+            <param name="text"></param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            トリミング
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            グレースケース
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            bit反転
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button4_Click(System.Object,System.EventArgs)">
+            <summary>
+            輪郭抽出
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button5_Click(System.Object,System.EventArgs)">
+            <summary>
+            ガンマ変換
+            gammaが高い場合、色が薄くなり　gammaが低い場合、色が薄くなる
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button6_Click(System.Object,System.EventArgs)">
+            <summary>
+            ヒストグラム　平坦化
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button7_Click(System.Object,System.EventArgs)">
+            <summary>
+            2値化
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button8_Click(System.Object,System.EventArgs)">
+            <summary>
+            2値トラックバー付き
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button9_Click(System.Object,System.EventArgs)">
+            <summary>
+            アファイン変換 1
+            平行移動
+            
+            https://imagingsolution.net/program/globaltransformations/
+            https://qiita.com/qinojp/items/d2d9a68a962b34b62888
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button10_Click(System.Object,System.EventArgs)">
+            <summary>
+            アファイン変換
+            回転
+            https://imagingsolution.net/program/globaltransformations/
+            https://qiita.com/qinojp/items/d2d9a68a962b34b62888
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.Button11_Click(System.Object,System.EventArgs)">
+            <summary>
+            平滑化 
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.ConversKindTabControl_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            セレクトイベント
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.ConversionListView_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            セレクトイベント
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.ExecListView_DoubleClick(System.Object,System.EventArgs)">
+            <summary>
+            実行リストダブルクリック
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">event</param>
+        </member>
+        <member name="F:OpenCvSample.Form1.components">
+            <summary>
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Form1.Dispose(System.Boolean)">
+            <summary>
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OpenCvSample.Form1.InitializeComponent">
+            <summary>
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.Program">
+            <summary>
+            エントリプログラム
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Program.Main">
+            <summary>
+            アプリケーションのメイン エントリ ポイントです。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.UserCon.BinarizationUserControl">
+            <summary>
+            ２値化
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.CheckValue(System.String@)">
+            <summary>
+            入力値チェック
+            </summary>
+            <param name="errormessage">エラーメッセージ</param>
+            <returns>チェック結果</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.SetDescription(System.String)">
+            <summary>
+            説明
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.SetTitle(System.String)">
+            <summary>
+            タイトル
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.SetData(OpenCvSample.ImgAnalyze.AnalyzeBase)">
+            <summary>
+            解析クラスの設定
+            </summary>
+            <param name="obj">解析クラス</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.GetData">
+            <summary>
+            解析クラス取得
+            </summary>
+            <returns>解析クラス</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.BinarizationUserControl_Load(System.Object,System.EventArgs)">
+            <summary>
+            ロード
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">Event</param>
+        </member>
+        <member name="F:OpenCvSample.UserCon.BinarizationUserControl.components">
+            <summary> 
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.Dispose(System.Boolean)">
+            <summary> 
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.BinarizationUserControl.InitializeComponent">
+            <summary> 
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を 
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.UserCon.GammaUserControl">
+            <summary>
+            ガンマ変換
+            </summary>
+        </member>
+        <member name="F:OpenCvSample.UserCon.GammaUserControl._obj">
+            <summary>
+            ガンマクラス
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.CheckValue(System.String@)">
+            <summary>
+            入力値チェック
+            </summary>
+            <param name="errormessage">エラーメッセージ</param>
+            <returns>チェック結果</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.SetDescription(System.String)">
+            <summary>
+            説明
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.SetTitle(System.String)">
+            <summary>
+            タイトル
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.SetData(OpenCvSample.ImgAnalyze.AnalyzeBase)">
+            <summary>
+            解析クラスの設定
+            </summary>
+            <param name="obj">解析クラス</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.GetData">
+            <summary>
+            解析クラス取得
+            </summary>
+            <returns>解析クラス</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.GammaUserControl_Load(System.Object,System.EventArgs)">
+            <summary>
+            ロード
+            </summary>
+            <param name="sender">senderObject</param>
+            <param name="e">Event</param>
+        </member>
+        <member name="F:OpenCvSample.UserCon.GammaUserControl.components">
+            <summary> 
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.Dispose(System.Boolean)">
+            <summary> 
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GammaUserControl.InitializeComponent">
+            <summary> 
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を 
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.UserCon.IDescriptionInterface">
+            <summary>
+            説明ユーザーコントールのインターフェース
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.IDescriptionInterface.SetDescription(System.String)">
+            <summary>
+            説明
+            </summary>
+            <param name="text">タイトル</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.IDescriptionInterface.SetTitle(System.String)">
+            <summary>
+            タイトル設定
+            </summary>
+            <param name="text">タイトル</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.IDescriptionInterface.CheckValue(System.String@)">
+            <summary>
+            値のチェック
+            </summary>
+            <param name="errormessage">エラーメッセージ</param>
+            <returns>チェック結果</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.IDescriptionInterface.SetData(OpenCvSample.ImgAnalyze.AnalyzeBase)">
+            <summary>
+            解析クラスの設定
+            </summary>
+            <param name="obj">解析クラス</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.IDescriptionInterface.GetData">
+            <summary>
+            解析クラス取得
+            </summary>
+            <returns>解析クラス</returns>
+        </member>
+        <member name="T:OpenCvSample.UserCon.GeneralBaseUserControl">
+            <summary>
+            ベースユーザーコントロール
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.#ctor">
+            <summary>
+            コンストラクタ
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.SetDescription(System.String)">
+            <summary>
+            説明
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.CheckValue(System.String@)">
+            <summary>
+            入力値チェック
+            </summary>
+            <param name="errormessage">エラーメッセージ</param>
+            <returns>チェック結果</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.SetTitle(System.String)">
+            <summary>
+            タイトル
+            </summary>
+            <param name="text">text</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.SetData(OpenCvSample.ImgAnalyze.AnalyzeBase)">
+            <summary>
+            解析クラスの設定
+            </summary>
+            <param name="obj">解析クラス</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.GetData">
+            <summary>
+            解析クラス取得
+            </summary>
+            <returns>解析クラス</returns>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.GeneralBaseUserControl_Load(System.Object,System.EventArgs)">
+            <summary>
+            ロード
+            </summary>
+            <param name="sender">senderObj</param>
+            <param name="e">Event</param>
+        </member>
+        <member name="F:OpenCvSample.UserCon.GeneralBaseUserControl.components">
+            <summary> 
+            必要なデザイナー変数です。
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.Dispose(System.Boolean)">
+            <summary> 
+            使用中のリソースをすべてクリーンアップします。
+            </summary>
+            <param name="disposing">マネージド リソースを破棄する場合は true を指定し、その他の場合は false を指定します。</param>
+        </member>
+        <member name="M:OpenCvSample.UserCon.GeneralBaseUserControl.InitializeComponent">
+            <summary> 
+            デザイナー サポートに必要なメソッドです。このメソッドの内容を 
+            コード エディターで変更しないでください。
+            </summary>
+        </member>
+        <member name="T:OpenCvSample.Utils.EnumDisplayNameAttribute">
+            <summary>
+            Enum要素名設定クラス　多言語対応
+            http://ikorin2.hatenablog.jp/entry/2019/02/05/182257
+            </summary>
+        </member>
+        <member name="M:OpenCvSample.Utils.EnumDisplayNameAttribute.#ctor(System.String)">
+            <summary>enum表示名属性</summary>
+            <param name="name">表示名</param>
+        </member>
+        <member name="M:OpenCvSample.Utils.EnumDisplayNameAttribute.#ctor">
+            <summary>enum表示名属性</summary>
+        </member>
+        <member name="P:OpenCvSample.Utils.EnumDisplayNameAttribute.Name">
+            <summary>表示名</summary>
+        </member>
+        <member name="P:OpenCvSample.Utils.EnumDisplayNameAttribute.Resource">
+            <summary>リソース名</summary>
+        </member>
+        <member name="P:OpenCvSample.Utils.EnumDisplayNameAttribute.ResourceType">
+            <summary>リソースの型</summary>
+        </member>
+        <member name="M:OpenCvSample.Utils.EnumDisplayNameAttribute.SetNameFromResource">
+            <summary>リソース型とリソース名から表示名をセットします</summary>
+        </member>
+        <member name="T:OpenCvSample.Properties.Resources">
+            <summary>
+              ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.Properties.Resources.ResourceManager">
+            <summary>
+              このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+            </summary>
+        </member>
+        <member name="P:OpenCvSample.Properties.Resources.Culture">
+            <summary>
+              すべてについて、現在のスレッドの CurrentUICulture プロパティをオーバーライドします
+              現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+            </summary>
+        </member>
+    </members>
+</doc>
